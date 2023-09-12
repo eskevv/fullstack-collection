@@ -11,4 +11,4 @@ slowly converting all back-end apps into full-scale apps. It will be more than j
 
 Front End Mentor Challenge Designs
 
-1.[Results Summary Component](https://github.com/eskevv/results-summary-component)
+1. [Results Summary Component](https://github.com/eskevv/results-summary-component)
