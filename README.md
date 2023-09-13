@@ -13,3 +13,4 @@ Front End Mentor Challenge Designs
 
 1. [Results Summary Component](https://github.com/eskevv/results-summary-component)
 2. [Product Preview Component](https://github.com/eskevv/product-preview-component/blob/main/README.md)
+3. [Newsletter Component](https://github.com/eskevv/newsletter-component)
